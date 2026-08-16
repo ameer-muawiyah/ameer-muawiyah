@@ -26,6 +26,6 @@ I am a second-semester Computer Science undergraduate building a foundation in *
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameer-muawiyah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-muawiyah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
+  <img src="./profile/langs.svg" height="150" alt="Top Languages" />
 </div>
