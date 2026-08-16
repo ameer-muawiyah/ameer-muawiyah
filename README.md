@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=435&lines=I'm+Ameer;CS+Undergraduate;Focusing+on+Data+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=435&lines=I'm+Ameer+Muawiyah;CS+Undergraduate+&+Data+Analyst;Learning+Data+Science+&ML)](https://git.io/typing-svg)
 
 I am a second-semester Computer Science undergraduate building a foundation in **Data Analysis**, **Python**, and **Databases**. I am currently focusing on extracting insights from data and expanding my analytical toolkit through professional coursework.
 
