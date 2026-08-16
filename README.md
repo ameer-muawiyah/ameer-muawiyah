@@ -29,3 +29,9 @@ I am a second-semester Computer Science undergraduate building a foundation in *
   <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
   <img src="./profile/langs.svg" height="150" alt="Top Languages" />
 </div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ameer-muawiyah/ameer-muawiyah/main/dist/snake-dark.svg" alt="Snake Animation" />
+</div>
