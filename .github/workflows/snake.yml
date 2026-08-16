@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows you to trigger it manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake files
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push snake to repository
+        uses: EndBug/add-commit@v9
+        with:
+          message: "Generate contribution snake animation"
+          add: "dist/"
+          default_author: github-actions
