@@ -2,11 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows manual triggers
+    - cron: "40 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: contribution-snake-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -15,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Contribution Snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -23,7 +27,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake files to branch
+      - name: Commit snake files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
