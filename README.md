@@ -22,3 +22,10 @@ I am a second-semester Computer Science undergraduate building a foundation in *
 ### 📓 Tools & Environments
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameer-muawiyah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-muawiyah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+</div>
