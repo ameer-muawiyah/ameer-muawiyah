@@ -2,6 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=620&lines=CS+Undergraduate+at+UET+Peshawar;Aspiring+Data+Analyst;Python,+SQL,+Data+Science+Learner;Building+software+with+data+in+mind)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ameer-muawiyah/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ameer%20Muawiyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muawiyahameer11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muawiyahameer11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ameer-muawiyah&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</div>
+
 I am a Computer Science undergraduate at **UET Peshawar** building a practical foundation in **data analysis, Python, SQL, databases, and data science workflows**. My current portfolio includes learning-focused analytical notebooks, database-backed Java applications, and full-stack academic projects that helped me understand how real software stores, processes, and presents information.
 
 My long-term direction is data analysis and data science. I am currently strengthening the fundamentals first: clean Python, structured SQL, exploratory data analysis, Jupyter workflows, database design, and the early mathematics and tooling needed for machine learning.
@@ -94,6 +104,10 @@ I am still early in my journey, but I am building in public and improving delibe
   <img src="./profile/langs.svg" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameer-muawiyah&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
 ## Contribution Activity
 
 <div align="center">
@@ -102,5 +116,6 @@ I am still early in my journey, but I am building in public and improving delibe
 
 ## Connect
 
+- LinkedIn: [Ameer Muawiyah](https://www.linkedin.com/in/ameer-muawiyah/)
 - GitHub: [ameer-muawiyah](https://github.com/ameer-muawiyah)
 - Email: [muawiyahameer11@gmail.com](mailto:muawiyahameer11@gmail.com)
