@@ -103,4 +103,4 @@ I am still early in my journey, but I am building in public and improving delibe
 ## Connect
 
 - GitHub: [ameer-muawiyah](https://github.com/ameer-muawiyah)
-- Email: [ameer184206@gmail.com](mailto:ameer184206@gmail.com)
+- Email: [muawiyahameer11@gmail.com](mailto:muawiyahameer11@gmail.com)
