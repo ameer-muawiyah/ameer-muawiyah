@@ -11,7 +11,7 @@
   </a>
 </div>
 
-I am a Computer Science undergraduate at **UET Peshawar** I am a Data Analyst combining **Python, SQL, databases, data science fundamentals, and practical software projects**.
+I am a Computer Science undergraduate at **UET Peshawar** building toward data analysis by combining **Python, SQL, databases, data science fundamentals, and practical software projects**.
 
 My current portfolio includes learning-focused analytical notebooks, database-backed Java applications, and full-stack academic projects that helped me understand how real software stores, processes, and presents information. My long-term direction is data analysis and data science, with a growing focus on exploratory analysis, clean datasets, clear insights, and beginner machine learning workflows.
 
