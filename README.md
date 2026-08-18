@@ -26,7 +26,7 @@ My current portfolio includes learning-focused analytical notebooks, database-ba
 
 | Project | What It Shows | Data Relevance | Tech |
 | --- | --- | --- | --- |
-| [Python Data Analysis Sandbox](https://github.com/ameer-muawiyah/Python-Data-Analysis-Sandbox) |Jupyter notebooks, syntax exercises, and early data manipulation experiments. | Shows consistency, analytical learning momentum, and the direction I am building toward. | Python, Jupyter Notebook, Google Colab |
+| [Python Data Analysis Sandbox](https://github.com/ameer-muawiyah/Python-Data-Analysis-Sandbox) |Daily Python practice, raw Jupyter notebooks, syntax exercises, and early data manipulation experiments. | Shows consistency, analytical learning momentum, and the direction I am building toward. | Python, Jupyter Notebook, Google Colab |
 | [OOP Studio LMS](https://github.com/ameer-muawiyah/OOP-Studio-LMS) | Full-stack learning management system with adaptive quizzes, timers, dashboards, student records, and a browser-based Java code runner. | Demonstrates user-data tracking, MySQL-backed persistence, structured records, and data-driven application flow. | Java, Spring Boot, Spring MVC, JPA, Thymeleaf, MySQL, Hibernate, HTML, CSS, JavaScript, Maven |
 | [Student Management App JavaFX](https://github.com/ameer-muawiyah/Student-Management-App-JavaFX) | Desktop CRUD application with MVC/DAO structure, validation, dynamic table updates, and MySQL integration. | Demonstrates SQL-backed record management, database integration, and practical handling of structured data. | Java, JavaFX, FXML, MySQL, JDBC, Maven, CSS |
 
