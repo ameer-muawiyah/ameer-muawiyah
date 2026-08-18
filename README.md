@@ -74,17 +74,11 @@ My next goal is to convert learning into stronger data-focused portfolio evidenc
   <img src="./profile/langs.svg" height="150" alt="Top Languages" />
 </div>
 
+## Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameer-muawiyah&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/ameer-muawiyah/ameer-muawiyah/main/dist/snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
-
-<details>
-  <summary>Contribution animation</summary>
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/ameer-muawiyah/ameer-muawiyah/main/dist/snake-dark.svg" alt="Contribution Snake Animation" />
-  </div>
-</details>
 
 ## Connect
 
