@@ -74,11 +74,6 @@ My next goal is to convert learning into stronger data-focused portfolio evidenc
   <img src="./profile/langs.svg" height="150" alt="Top Languages" />
 </div>
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ameer-muawiyah/ameer-muawiyah/main/dist/snake-dark.svg" alt="Contribution Snake Animation" />
-</div>
 
 ## Connect
 
