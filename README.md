@@ -70,7 +70,7 @@ My next goal is to convert learning into stronger data-focused portfolio evidenc
 ## GitHub Analytics
 
 <div align="center">
-  <img src="./profile/stats.svg" height="150" alt="GitHub Stats" />
+  <!-- <img src="./profile/stats.svg" height="150" alt="GitHub Stats" /> -->
   <img src="./profile/langs.svg" height="150" alt="Top Languages" />
 </div>
 
